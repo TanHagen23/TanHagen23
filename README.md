@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=180&section=header&text=Bekhruz%20Shukurov&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Junior%20Go%20Backend%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=180&section=header&text=Bekhruz%20Shukurov&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tan_Hagen_B)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bekhruz-shukurov-a178bb2a3)
@@ -14,7 +14,7 @@
 - 💼 Пишу backend на Go, работаю с PostgreSQL/MariaDB и REST API
 - 🚀 Один довёл до тестирования у клиента коммерческий SaaS-проект (ISUD-QMS)
 - 🌱 Сейчас учусь писать более оптимальный код и углубляюсь в Go (горутины, каналы)
-- 🛰️ Участник NASA Space Apps Challenge (Душанбе, 2022–2026)
+- 🛰️ Участник NASA Space Apps Challenge (Душанбе, 2022–2024)
 - 📫 Как связаться: Telegram или email выше
 
 ### 🛠️ Tech Stack
