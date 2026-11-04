@@ -29,13 +29,4 @@
 | **ISUD-QMS** | SaaS-система менеджмента качества (ISO 9001). Go, React, MariaDB, JWT, CI/CD. Код закрыт по договору с заказчиком — могу показать демо |
 | **[diploma-work](https://github.com/TanHagen23/diploma-work)** | Дипломный проект: складской учёт. Django, PostgreSQL, React |
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanHagen23&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHagen23&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=TanHagen23&style=flat&color=blueviolet" />
-
-![snake](https://raw.githubusercontent.com/TanHagen23/TanHagen23/output/github-contribution-grid-snake.svg)
