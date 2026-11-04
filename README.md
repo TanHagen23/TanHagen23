@@ -37,3 +37,5 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=TanHagen23&style=flat&color=blueviolet" />
+
+![snake](https://raw.githubusercontent.com/TanHagen23/TanHagen23/output/github-contribution-grid-snake.svg)
